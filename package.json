@@ -1,0 +1,20 @@
+{
+  "name": "01backend",
+  "version": "1.0.0",
+  "description": "A basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Arihant Upadhyay",
+  "license": "ISC",
+  "dependencies": {
+    "01backend": "file:",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
